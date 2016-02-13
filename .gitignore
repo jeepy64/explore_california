@@ -1,6 +1,7 @@
 # Comment
 
 temp.txt
+temp2.txt
 *.zip
 *.gz
 log/*.log
